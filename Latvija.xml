@@ -1,0 +1,347 @@
+﻿﻿<?xml version="1.0" encoding="UTF-8"?>
+<items>
+<playlist_name>Latvia</playlist_name>
+<all_region/>
+<channel>
+<title><![CDATA[ Updated 30.12.2016 ]]></title>
+<stream_url><![CDATA[ http://mylist.obovse.ru/logan2610/latvija/Latvija.xml ]]></stream_url>
+<description><![CDATA[<center>Patreiz onlainā:<a href="http://whos.amung.us/stats/xh57ock493rz"><br><img src="http://whos.amung.us/widget/xh57ock493rz.png" alt="web stats" width="81" height="25" border="0"/></a><br><font color="#B40404">Ja ir kādi jautājumi vai kādi neejoi kanāli rakstiet man uz e-pastu </font><br><font color="#5eb006">Patīkamu skatīšanos!</font></center>]]></description>
+<logo_30x30>http://moa.ucoz.com/img/info.png</logo_30x30>
+</channel>
+<channel>
+<title><![CDATA[ STV Pirmā! ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/892ec5_d7e0cdb88c5c4bd2838e529f332747fb.jpg/v1/fill/w_31,h_31,al_c,q_75,usm_0.50_1.20_0.00,lg_1/892ec5_d7e0cdb88c5c4bd2838e529f332747fb.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=221" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://str9e.lattelecom.tv/live/mp4:stv_lv_hq.stream/playlist.m3u8?resource_id=c-stv_pirma&auth_token=vDquzYaKjRS7U%2BMq9eeijNGC8qVyFeOM6AG%2FNRF%2BEPGFSRn1rtgAYWfIdrPE0POhO0OhM%2FPzGflQFSYARI9yZItXKH7q16Nq%2BS4n%2FaS48Cg%3D]]></stream_url>http://91.188.34.232:1234/stv
+</channel>
+<channel>
+<title><![CDATA[ 360TV Palladium ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/892ec5_b283cfe4137443c9a78bdd50422df467.png?dn=944d_360tv_dinamo_logo_32x32px_melns.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://tv.lattelecom.lv/lv/programma/interaktiva/list/360tv_dinamo_riga" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://str12e.lattelecom.tv/live/mp4:360tv_lv_lq.stream/playlist.m3u8?resource_id=c-360tv_palladium&auth_token=CRSyojzVFfacC7u8CFNMPZwuejS%2FogLtuk4zBbsjQmTSpRHiZCIIrMaQinFzjw0r9KpiWnBU0AVrkmAg9KGQr4l9kanO9pO7W7nToKcqH8U%3D]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ 360TV Lattelecom ]]></title>
+<logo_30x30><![CDATA[https://pbs.twimg.com/profile_images/629621373724459008/-qIGOCox_400x400.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://tv.lattelecom.lv/lv/programma/interaktiva/list/360tv" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -225px; top: -400px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://195.13.206.151/mobile/mp4:lattelecom_lv_lq.stream/chunklist_w1782937655.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Настоящее время HD 1280 ]]></title>
+<logo_30x30><![CDATA[http://is3.mzstatic.com/image/thumb/Purple122/v4/e2/54/5d/e2545d6e-3a08-9984-62e2-0446fa9a352b/source/175x175bb.jpg]]></logo_30x30>
+<description/>
+<stream_url><![CDATA[http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_0720_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Настоящее время HD 1920 ]]></title>
+<logo_30x30><![CDATA[http://is3.mzstatic.com/image/thumb/Purple122/v4/e2/54/5d/e2545d6e-3a08-9984-62e2-0446fa9a352b/source/175x175bb.jpg]]></logo_30x30>
+<description/>
+<stream_url><![CDATA[http://rfe-lh.akamaihd.net/i/rfe_tvmc5@383630/index_1080_av-p.m3u8?sd=10&rebase=on]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LTV1 ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/9/9b/LTV1_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=49#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/462.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704404/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ LTV1 ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/9/9b/LTV1_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=49#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8404/ch404]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LTV1 LMT Tikla]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/9/9b/LTV1_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=49#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://tv.lmt.lv/livetv/01LTV1.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LTV7 ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/6/65/LTV7_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=86#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/635.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704402/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ LTV7 ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/6/65/LTV7_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=86#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8402/ch402]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LTV7 LMT Tikla]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/6/65/LTV7_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=86#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://tv.lmt.lv/livetv/01LTV7.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TV3 Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TV3_Latvia_logo.png/150px-TV3_Latvia_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=1#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/460.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704405/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ TV3 Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/TV3_Latvia_logo.png/150px-TV3_Latvia_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=1#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8405/ch405]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ LNT Latvia ]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-19/e200_lnt_small.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=8#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/458.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704408/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ LNT Latvia ]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-19/e200_lnt_small.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=8#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8408/ch408]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TV6 Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/thumb/7/73/TV6_logo.png/150px-TV6_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=108#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/456.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TV6 Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/thumb/7/73/TV6_logo.png/150px-TV6_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=108#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8407/ch407]]></stream_url>http://193.8.246.77:8004/play/11704407/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ ДомашнийДомашний ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/892ec5_5324502df6a544429fb983d20879383a.gif]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=229#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://91.188.34.232:1234/tv5]]></stream_url>https://guide.baltcom.lv/?ch=97#
+</channel>
+<channel>
+<title><![CDATA[ Kanāls 2 ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/892ec5_fb07ed008e7f42129231b6a4a45588b2.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=27#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/463.m3u8]]></stream_url>
+</channel>https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3_high.stream/master.m3u8
+<channel>
+<title><![CDATA[ Kanāls 2 ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/892ec5_fb07ed008e7f42129231b6a4a45588b2.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=27#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://62.85.61.131:8001/1:0:1:18B0:E:55:300000:0:0:0:]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ TV3+ Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/en/f/fb/3%2B_violet_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=9#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://51.254.39.37/TV/RUS/n/475.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704406/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ TV3+ Latvia ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/en/f/fb/3%2B_violet_logo.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=9#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8406/ch406]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ FOX Sub_Latviski ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/commons/9/96/FOX_wordmark-orange.svg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=70#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://109.169.26.19/9/live.flv]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ NAT GEO Sub_Latviski ]]></title>
+<logo_30x30><![CDATA[http://static.wixstatic.com/media/4f9d0b_ed175d110d244efda7f98ed79598a540.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=29#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://92.49.0.30:4050/udp/239.239.2.23:1234]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RĪGATV 24 LMT Tikla]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/f/ff/R%C4%ABga_TV_24.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=214#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://tv.lmt.lv/livetv/public/01RigaTV.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RĪGATV 24 1]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/f/ff/R%C4%ABga_TV_24.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=214#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://player.tvnet.lv/live/tv24_1/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RĪGATV 24 2]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/f/ff/R%C4%ABga_TV_24.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=214#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[rtmp://rafale.grafton.lv/live//tv24_1]]></stream_url>http://rafale.grafton.lv:1935/live/tv24_1/chunklist_w1863118568.m3u8
+</channel>
+<channel>
+<title><![CDATA[ RE:TV LMT Tikla]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-11/203c_retv_small.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=117#" style="position: absolute; width: 800px; height: 2500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://tv.lmt.lv/livetv/01ReTV.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RE:TV ]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-11/203c_retv_small.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=117#" style="position: absolute; width: 800px; height: 2500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://80.70.22.46/RETV/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RE:TV vlc]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-11/203c_retv_small.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=117#" style="position: absolute; width: 800px; height: 2500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://edge-telia1.polarhd.com/live/retv.lv.1_1/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Mūzikas video kanāls 1]]></title>
+<logo_30x30><![CDATA[http://alberta-koledza.lv/AC/Muzika.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=203#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://80.70.22.46/MUZIKASVIDEO/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Mūzikas video kanāls 2]]></title>
+<logo_30x30><![CDATA[http://alberta-koledza.lv/AC/Muzika.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=203#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://stream.onlive-media.com/live/muzikas-video.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ ChaulaTV HD ]]></title>
+<logo_30x30><![CDATA[http://www.lakuga.lv/wp-content/uploads/2015/02/Chaula-TV-small.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="p://www.dddarbnica.lv/wp-content/uploads/2014/05/ChaulaTV_logo.jpeg" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://video.chaula.tv/hls/live/high/playlist_high.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ ChaulaTV Augsta ]]></title>
+<logo_30x30><![CDATA[http://www.lakuga.lv/wp-content/uploads/2015/02/Chaula-TV-small.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="p://www.dddarbnica.lv/wp-content/uploads/2014/05/ChaulaTV_logo.jpeg" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://video.chaula.tv/hls/live/medium/playlist_medium.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ ChaulaTV Zema ]]></title>
+<logo_30x30><![CDATA[http://www.lakuga.lv/wp-content/uploads/2015/02/Chaula-TV-small.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="p://www.dddarbnica.lv/wp-content/uploads/2014/05/ChaulaTV_logo.jpeg" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://video.chaula.tv/hls/live/low/playlist_low.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Latvijas šlāgerkanāls 1]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/96x96s/channels/2013-09-11/7a46_latvijas_shlagerkanals.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="http://tvid.space/tv/latvijas/tvprogramma/latvijasslagerkanals.php" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8411/ch411]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Latvijas šlāgerkanāls 2]]></title>
+<logo_30x30><![CDATA[https://www.lattelecom.tv/media/imse/96x96s/channels/2013-09-11/7a46_latvijas_shlagerkanals.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="http://tvid.space/tv/latvijas/tvprogramma/latvijasslagerkanals.php" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://stream.onlive-media.com/live/slagermuzika.m3u8]]></stream_url>http://193.8.246.77:8004/play/11704411/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ TVOE ]]></title>
+<logo_30x30><![CDATA[http://www.irishdanceinbaltics.com/images/contacts/logo_tvoe.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="http://tvid.space/tv/latvijas/tvprogramma/latvijasslagerkanals.php" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://80.70.22.46/TVOE/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ MTV Europe ]]></title>
+<logo_30x30><![CDATA[http://b3ta.hnldesign.nl/beta561.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="http://tvid.space/tv/latvijas/tvprogramma/latvijasslagerkanals.php" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://80.70.22.46/MTV/playlist.m3u8]]></stream_url>https://www.lattelecom.tv/media/imse/96x96s/channels/2013-09-11/b9ef_mtv_europe.png
+</channel>https://www.lattelecom.tv/media/imse/32x32s/channels/2013-09-11/120f_mtv_europe_small.png
+<channel>
+<title><![CDATA[ KidzoneTV LV  ]]></title>
+<logo_30x30><![CDATA[http://content.tvprograma.lt/logo/220x80_0_19475200_1391074389m.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=198#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://80.70.22.46/kidzone/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ KidzoneTV EE, LV, LT, RU  ]]></title>
+<logo_30x30><![CDATA[http://content.tvprograma.lt/logo/220x80_0_19475200_1391074389m.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=198#" style="position: absolute; width: 800px; height: 2000px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://s11.iptvapi.com:8081/KidZone/index.m3u8?token=l0k-0CQexohc5cZNHtGRpg ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ РЕН ТВ Baltic Darbojas ]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2013/08/REN-TV-Baltija3.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=10#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://str4o.lattelecom.tv/live/mp4:ren_ru_hq.stream/chunklist_w1729627949.m3u8  ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ РЕН ТВ Baltic ]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2013/08/REN-TV-Baltija3.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=10#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://s11.iptvapi.com:8081/RENLT/index.m3u8?token=l0k-0CQexohc5cZNHtGRpg]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ НТВ МИР Baltic Darbojas ]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2014/08/Logo_NTV_Baltic.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=50#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://1ttvauth.top/s/176/1/auto/VmdNbktEY2hzVmg1Ym15RXI5ZEpxVDR3R3ppZ3F6WjlWMExqTzZiMG5XcW5vNUhtNXorV0ovaTlENTN5VkszUDBHYUZ0STFoZ0hrTkM0V1FZaVRaQ2EwSklnaksrVDhpc2k2b0swVVhzeFZGT1RTRW1RPT0/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ НТВ МИР Baltic ]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2014/08/Logo_NTV_Baltic.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=50#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://s11.iptvapi.com:8081/NTVmir/index.m3u8?token=l0k-0CQexohc5cZNHtGRpg ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Pirmais Baltijas Kanāls ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/5/5f/180px-Channel_One.svg.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=94#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8401/ch401 ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Pirmais Baltijas Kanāls ]]></title>
+<logo_30x30><![CDATA[https://upload.wikimedia.org/wikipedia/lv/5/5f/180px-Channel_One.svg.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=94#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://193.8.246.77:8004/play/11704401/index.m3u8 ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Pirmais Baltijas Mūzikas Kanāls 1]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2014/08/1BM_logo_color-CMYK_alone.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://streamer4.tvdom.tv/PBMK/tracks-v1a1/index.m3u8?token%3Dtoken1]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Pirmais Baltijas Mūzikas Kanāls 2]]></title>
+<logo_30x30><![CDATA[http://1bma.lv/files/2014/08/1BM_logo_color-CMYK_alone.png]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://193.8.246.110:8880/play/10010]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Viasat Sport Baltic ]]></title>
+<logo_30x30><![CDATA[https://www.teo.lt/sites/default/files/APIE_TEO/Klientu_aptarnavimas/TEO_pasaulis/Paveiksliukai_2011/Viasat%20Sport%20Baltic.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=12#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[ http://87.110.124.97:8001/1:0:1:17AC:8:56:300000:0:0:0: ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Viasat Sport Baltic ]]></title>
+<logo_30x30><![CDATA[https://www.teo.lt/sites/default/files/APIE_TEO/Klientu_aptarnavimas/TEO_pasaulis/Paveiksliukai_2011/Viasat%20Sport%20Baltic.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=12#" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://www.streamgaroo.com/fetch/http://cdn.videosofsport1.pw/hls/4NkoMTG8dWUxR_gA9otIaQ/1490469540/sportbaltic.m3u8 ]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Sportacentrs.com ]]></title>
+<logo_30x30><![CDATA[http://i1.tiesraides.lv/files/2010-10/2010-10-12_sportacentrs_logo_jpg.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=223#" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://217.145.218.30:8403/ch403 ]]></stream_url>http://193.8.246.77:8004/play/11704403/index.m3u8
+</channel>
+<channel>
+<title><![CDATA[ Sportacentrs.com LMT tiklā ]]></title>
+<logo_30x30><![CDATA[http://i1.tiesraides.lv/files/2010-10/2010-10-12_sportacentrs_logo_jpg.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://guide.baltcom.lv/?ch=223#" style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -10px; top: -80px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://tv.lmt.lv/livetv/otv.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Best4Sport TV Tagad pieejams ]]></title>
+<logo_30x30><![CDATA[http://wiptv1.tk/thumbs/30/best4sporttv.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src="https://tv.lattelecom.lv/lv/programma/interaktiva/list/best4sport_tv" style="position: absolute; width: 800px; height: 1500px; z-index: 1; left: -225px; top: -400px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://195.13.216.2/mobile/mp4:b4s_lv_lq.stream/chunklist_w1450772621.m3u8]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ Vidusdaugavas TV ]]></title>
+<logo_30x30><![CDATA[http://www.freeetv.com/images/03_logo/Vidusdaugavas_tv_Lativa.jpg]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src=" " style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=B3boZIqLSpk]]></stream_url>
+</channel>
+<channel>
+<title><![CDATA[ RTU: Rgas Tehnisk Universitte ]]></title>
+<logo_30x30><![CDATA[]]></logo_30x30>
+<description><![CDATA[<td style='vertical-align: top'><iframe id="yandex_tv" src=" " style="position: absolute; width: 800px; height: 800px; z-index: 1; left: -225px; top: -20px"></td></iframe>]]></description>
+<stream_url><![CDATA[http://embedrtu.cloudy.services/play/213/playlist.m3u8]]></stream_url>
+</channel>
+</items>
