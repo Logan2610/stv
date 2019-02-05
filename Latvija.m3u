@@ -1,0 +1,83 @@
+#EXTM3U
+#EXTINF:0,LTV1_1
+http://51.254.39.37/TV/RUS/n/462.m3u8
+#EXTINF:0,LTV1_2
+http://217.145.218.30:8404/ch404
+#EXTINF:0,LTV1 LMT
+http://tv.lmt.lv/livetv/01LTV1.m3u8
+#EXTINF:0,LTV7_1
+http://51.254.39.37/TV/RUS/n/635.m3u8
+#EXTINF:0,LTV7_2
+http://217.145.218.30:8402/ch402
+#EXTINF:0,LTV7 LMT
+http://tv.lmt.lv/livetv/01LTV7.m3u8
+#EXTINF:0,TV3 Latvia_1
+http://51.254.39.37/TV/RUS/n/460.m3u8
+#EXTINF:0,TV3 Latvia_2
+http://217.145.218.30:8405/ch405
+#EXTINF:0,TV3 Latvia_3
+https://cdn4.tvplayhome.lt/live/eds/TV3_LV_HD/hls/TV3_LV_HD.m3u8
+#EXTINF:0 group-title="Latvija",TV3 Latvia Zema
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream2.smil/chunklist_b522240.m3u8
+#EXTINF:0 group-title="Latvija",TV3 Latvia Vidēja
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream2.smil/chunklist_b1228800.m3u8
+#EXTINF:0 group-title="Latvija",TV3 Latvia Augsta
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream2.smil/chunklist_b1863680.m3u8
+#EXTINF:0 group-title="Latvija",LNT_1
+http://51.254.39.37/TV/RUS/n/458.m3u8
+#EXTINF:0 group-title="Latvija",LNT_2
+http://217.145.218.30:8408/ch408
+#EXTINF:0 group-title="Latvija",LNT_3
+https://cdn4.tvplayhome.lt/live/eds/LNT_LV_SD/hls/LNT_LV_SD.m3u8
+#EXTINF:0 group-title="Latvija",LNT Latvia Zema
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream1.smil/chunklist_b522240.m3u8
+#EXTINF:0 group-title="Latvija",LNT Latvia Vidēja
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream1.smil/chunklist_b1228800.m3u8
+#EXTINF:0 group-title="Latvija",LNT Latvia Augsta
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream1.smil/chunklist_b1863680.m3u8
+#EXTINF:0 group-title="Latvija",TV6_1
+http://51.254.39.37/TV/RUS/n/456.m3u8
+#EXTINF:0 group-title="Latvija",TV6_2
+http://217.145.218.30:8407/ch407
+#EXTINF:0 group-title="Latvija",TV6_3
+https://cdn4.tvplayhome.lt/live/eds/TV6_LV_SD/hls/TV6_LV_SD.m3u8
+#EXTINF:0 group-title="Latvija",TV6 Latvia Zema
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4.smil/chunklist_b522240.m3u8
+#EXTINF:0 group-title="Latvija",TV6 Latvia Vidēja
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4.smil/chunklist_b1228800.m3u8
+#EXTINF:0 group-title="Latvija",TV6 Latvia Augsta
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream4.smil/chunklist_b1863680.m3u8
+#EXTINF:0 group-title="Latvija",Kanāls 2_1
+http://51.254.39.37/TV/RUS/n/463.m3u8
+#EXTINF:0 group-title="Latvija",Kanāls 2_2
+https://cdn4.tvplayhome.lt/live/eds/Kanals2_LV_SD/hls/Kanals2_LV_SD.m3u8
+#EXTINF:0 group-title="Latvija",Kanāls 2 Zema
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3.smil/chunklist_b522240.m3u8
+#EXTINF:0 group-title="Latvija",Kanāls 2 Vidēja
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3.smil/chunklist_b522240.m3u8
+#EXTINF:0 group-title="Latvija",Kanāls 2 Augsta
+https://mtglv1010.cloudycdn.services/tvplay/_definst_/mtgstream3.smil/chunklist_b1863680.m3u8
+#EXTINF:0 group-title="Latvija",3+ _1
+http://217.145.218.30:8406/ch406
+#EXTINF:0 group-title="Latvija",3+ _2
+http://51.254.39.37/TV/RUS/n/475.m3u8
+#EXTINF:0 group-title="Latvija",3+ _3
+https://cdn4.tvplayhome.lt/live/eds/3plus_LV_SD/hls/3plus_LV_SD.m3u8
+#EXTINF:0,KidzoneTV EE, LV, LT, RU
+https://cdn4.tvplayhome.lt/live/eds/Kidzone/hls/Kidzone.m3u8
+#EXTINF:0,РЕН ТВ Baltic
+https://cdn4.tvplayhome.lt/live/eds/Ren_TV/hls/Ren_TV.m3u8
+#EXTINF:0,НТВ МИР Baltic
+https://cdn4.tvplayhome.lt/live/eds/NTV_Mir/hls/NTV_Mir.m3u8
+#EXTINF:0,Pirmais Baltijas Kanāls_1
+http://217.145.218.30:8401/ch401
+#EXTINF:0,Pirmais Baltijas Kanāls_2
+https://cdn4.tvplayhome.lt/live/eds/PBK/hls/PBK.m3u8
+#EXTINF:0,Pirmais Baltijas Mūzikas Kanāls 
+https://streamer5.tvdom.tv/in/tvdom/tracks-v1a1/index.m3u8?token%3Dtoken1
+#EXTINF:0,Sportacentrs.com
+http://217.145.218.30:8403/ch403
+#EXTINF:0,Sportacentrs.com LMT
+http://tv.lmt.lv/livetv/otv.m3u8
+
+
