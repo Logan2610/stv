@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1,Movie
-https://strontium.cdn.apollostream.xyz/f4e044b9cba889ab2ea77e40b4dc0210:2019090421:1348029383/flv/720-d398382d965e670ccf142a036703f2a05d6d0668c280d.mp4
+#EXTINF:-1,Мертвые не умирают
+http://cdn5.farsihd.info/stream2/cdn0/b3ca0034d2c1362033d5d48a0bafbc73/MJTMsp1RshGTygnMNRUR2N2MSlnWXZEdMNDZzQWe5MDZzMmdZJTO1R2RWVHZDljekhkSsl1VwYnWtx2cihVT21kMStWTUZEaNR1a6pFVWlmWE1EMN1mUo1kMZVTTElUeOdkRrl1VFdXTtlUP:1567674359:80.89.75.199:73f04384ad353798b6fa350fbad630cab61d949aa0183e80151cbc49540476b8/1080/index.m3u8
 #EXTINF:-1,My Stepfather's Secret
 #EXTVLCOPT: sub-file=https://vcloud.to/srt/00000/muxtiob1dwmo_English.vtt
 #EXTVLCOPT:subsdec-encoding=System Default
