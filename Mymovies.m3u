@@ -1,12 +1,9 @@
 #EXTM3U
-#EXTINF:-1,Sezona 4 serija 12
-http://platinum.cdn.apollostream.xyz/b8d7de20ce366d6d5ef4d1c6276ec8b1:2019100219:3557015955/flv/1080-e0d5cd765b261dc7a393159ed9dabc00.mp4
-#EXTINF:-1,Sezona 4 serija 13
-http://astatium.cdn.apollostream.xyz/bbaefb7d0df84f45a72c2bd06f36c784:2019100219:3557015955/flv/1080-87652cdf1c7743495ff9a85013351a93.mp4
-#EXTINF:-1,Sezona 4 serija 14
-http://osmium.cdn.apollostream.xyz/4f44238cdc0e6c9be4187a16cba789f8:2019100219:3557015955/flv/1080-f6b73232f2265446c82ce7bd4a7de07a.mp4
 #EXTINF:-1,Sezona 4 serija 15
-http://bbs.cdn.apollostream.xyz/3fd4209b9661f44071b7f3fe1ce98c2f:2019100219:3557015955/flv/1080-34d7c70fec196c2615d241df32a5e903.mp4
+http://bbs.cdn.apollostream.xyz/85efe70b7951c2b7b58f14228518c3a3:2019100222:3557015955/flv/1080-34d7c70fec196c2615d241df32a5e903.mp4
+#EXTINF:-1,Sezona 4 serija 16
+http://beryllium.cdn.apollostream.xyz/ebd24a16173e0283d6001e0bb403a7a0:2019100222:3557015955/flv/1080-16922a094833d9192b513faff66bc3e7.mp4
+
 #EXTINF:-1,My Stepfather's Secret
 http://s18689.secure2.footprint.net/deu/lv_lnt/chunks.m3u8
 #EXTINF:-1,TEST
