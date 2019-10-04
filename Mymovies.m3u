@@ -4,8 +4,7 @@ http://bbs.cdn.apollostream.xyz/85efe70b7951c2b7b58f14228518c3a3:2019100222:3557
 #EXTINF:-1,Sezona 4 serija 16
 http://beryllium.cdn.apollostream.xyz/ebd24a16173e0283d6001e0bb403a7a0:2019100222:3557015955/flv/1080-16922a094833d9192b513faff66bc3e7.mp4
 
-#EXTINF:-1,Replicas 2018
-#EXTVLCOPT:sub-file="https://tavstv.000webhostapp.com/subtitle/Replicas.HDRip.x264-MkvCage.vtt"
+#EXTINF:-1 subtitles="https://tavstv.000webhostapp.com/subtitle/Replicas.HDRip.x264-MkvCage.vtt",Replicas 2018
 #EXTVLCOPT:subsdec-align=0
 #EXTVLCOPT:freetype-rel-fontsize=16
 #EXTVLCOPT:sub-fps=0
