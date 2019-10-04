@@ -6,13 +6,7 @@ http://beryllium.cdn.apollostream.xyz/ebd24a16173e0283d6001e0bb403a7a0:201910022
 
 #EXTINF:-1,Replicas 2018
 https://fe18.lookmovie.ag/c/pFymw86jvghSYNtGl_rKMg/1570225054/storage1/movies/4154916-replicas-2018-1546262683/1080p/index.m3u8
-#EXTVLCOPT:sub-file=https://tavstv.000webhostapp.com/subtitle/Replicas.HDRip.x264-MkvCage.srt
-#EXTVLCOPT:subsdec-encoding=System Default
-#EXTVLCOPT:subsdec-align=0
-#EXTVLCOPT:freetype-rel-fontsize=16
-#EXTVLCOPT:sub-fps=0
-#EXTVLCOPT:sub-delay=0
-https://fe18.lookmovie.ag/c/pFymw86jvghSYNtGl_rKMg/1570225054/storage1/movies/4154916-replicas-2018-1546262683/1080p/index.m3u8
+
 #EXTINF:-1,My Stepfather's Secret
 http://s18689.secure2.footprint.net/deu/lv_lnt/chunks.m3u8
 #EXTINF:-1,TEST
