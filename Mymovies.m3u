@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1,TV3 Sport2
 https://cdnlb.tvplayhome.lt/live/eds/TVPlaySportPlusHD/HLS_encr/TVPlaySportPlusHD.m3u8
-
-
+#EXTINF:-1,TV3 Sport2(mpd)
+http://185.176.117.242/live/eds/TVPlaySportPlusHD/mDASH/TVPlaySportPlusHD.mpd
 #EXTINF:-1,Official Secrets 2019
 https://fe22.lookmovie.ag/c/j_Sbiaa5ukO_EZtoXBqy_A/1573342408/storage3/movies/5431890-official-secrets-2019-1573003514/720p/index.m3u8
 
