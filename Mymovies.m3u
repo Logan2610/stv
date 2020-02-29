@@ -1,6 +1,10 @@
 #EXTM3U
-#EXTINF:-1,TV3 Film
+#EXTINF:-1,TV3 Film 1
 https://cdnlb.tvplayhome.lt/live/eds/TV1000PremiumHD/GO3_LIVE_SS/Manifest?test=.ism/Manifest&begin=1582977452
+#EXTINF:-1,TV3 Film 2
+http://cdn3.tvplayhome.lt/live/eds/TV1000PremiumHD/GO3_LIVE_SS/Manifest.ism/Manifest
+#EXTINF:-1,TV3 Film 3
+http://cdn3.tvplayhome.lt/live/eds/TV1000PremiumHD/GO3_LIVE_SS/Manifest
 #EXTINF:-1,Geostorm 2017
 https://iv.lookmovie.ag/H-QJBrXbE4aYRKO3Vb0b3g/1581269973/storage2/movies/geostorm-2017/1080p/index.m3u8
 #EXTINF:-1,The 5th Wave 2016
